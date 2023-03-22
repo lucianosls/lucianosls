@@ -1,16 +1,17 @@
-- 🔭 I’m currently working on [No Country] en un sistema de emulacion (https://www.nocountry.tech/)  
-  
-
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
-
-
-###                                                                         I´m Luciano, full.-stack developer🚀
+- 🔭 I’m currently working on [No Country] en un sistema de emulacion (https://www.nocountry.tech/)  
   
-### I'm Luciano, a full-stack developer 👨‍💻 self-taught with the desire to create new things 🚀  
+
+
+
+###                                                                         I´m Luciano, full-stack developer🚀
+  
+### Hello everyone 👨‍💻 I am a self-taught person who wants to create new things 🚀
+  
   
 
 <br/>  
